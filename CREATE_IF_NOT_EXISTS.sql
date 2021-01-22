@@ -54,11 +54,6 @@ BEGIN
 	FOREIGN KEY(COD_EMPRESA, COD_TIPO, NUM_ORDEM)
 	REFERENCES BLR_ECF_OPER_EXPORTACAO (COD_EMPRESA_FW, COD_TIPO, NUM_ORDEM)
 END
-ELSE BEGIN
-	PRINT '--------------------------------------------------'
-	PRINT 'CONSTRAINT FK_SAMPLE_01 JÁ EXISTE' 
-	PRINT '--------------------------------------------------'
-END
 
 GO
 
