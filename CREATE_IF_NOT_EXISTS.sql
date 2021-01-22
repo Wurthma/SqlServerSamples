@@ -58,7 +58,7 @@ ELSE BEGIN
 	PRINT '--------------------------------------------------'
 	PRINT 'CONSTRAINT FK_SAMPLE_01 JÁ EXISTE' 
 	PRINT '--------------------------------------------------'
-END;
+END
 
 GO
 
