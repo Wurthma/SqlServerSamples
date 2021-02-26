@@ -21,3 +21,6 @@ Exemplos de scripts SQL Server para consultas no dia-a-dia.
   
 7. [SESSIONS.sql](SESSIONS.sql): 
   Consultas para verificar informações da sessão.
+  
+8. [FNC_GET_CSV_COLUMN.sql](FNC_GET_CSV_COLUMN.sql): 
+  Função para retornar determinada coluna de um arquivo CSV.
