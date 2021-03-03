@@ -24,3 +24,6 @@ Exemplos de scripts SQL Server para consultas no dia-a-dia.
   
 8. [FNC_GET_CSV_COLUMN.sql](FNC_GET_CSV_COLUMN.sql): 
   Função para retornar determinada coluna de um arquivo CSV.
+
+9. [DROP_ALL_OBJECTS.sql](DROP_ALL_OBJECTS.sql):
+Função para deletar TODOS objetos do banco de dados.
