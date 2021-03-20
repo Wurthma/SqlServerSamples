@@ -28,5 +28,5 @@ Exemplos de scripts SQL Server para consultas no dia-a-dia.
 9. [DROP_ALL_OBJECTS.sql](DROP_ALL_OBJECTS.sql):
 Função para deletar TODOS objetos do banco de dados.
 
-10. [.\PROCEDURE](DROP_ALL_OBJECTS.sql):
+10. [PROCEDURE LIMPEZA](.\PROCEDURE_LIMPEZA):
 Procedures para limpeza de dados de tabela (exemplo criado em desenvolvimentos na bcx).
