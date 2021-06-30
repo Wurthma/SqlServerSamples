@@ -5,7 +5,7 @@ Exemplos de scripts SQL Server para consultas no dia-a-dia.
   Exemplo para evitar inserção de PKs duplicadas.
   
 2. [CREATE_IF_NOT_EXISTS.sql](CREATE_IF_NOT_EXISTS.sql): 
-  Exemplo de criação de objetos verificando antes de o mesmo existe.
+  Exemplo de criação de objetos verificando antes se o mesmo existe.
   
 3. [CHECKING_LOCK_TABLES.sql](CHECKING_LOCK_TABLES.sql): 
   Query para verificar se existem tabelas com lock.
